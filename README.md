@@ -65,3 +65,9 @@ npm start
 - [x] 管理员向服务器上传新装备信息(包括图片) -- 完成
 - [x] 装备许愿选定/取消 -- 完成
 - [x] 装备许愿数据上传、保存游客许愿数据(LocalStorage) -- 完成
+
+# 演示
+
+![image](https://github.com/feiyyx/vue-koa2-ItemSearch/blob/master/showImages/show-1.png)
+
+![image](https://github.com/feiyyx/vue-koa2-ItemSearch/blob/master/showImages/show-2.gif)

@@ -22,7 +22,7 @@
 
 ## 前端运行：
 
-```
+``` bash
 cd frontDeemo/
 
 npm install 或 yarn(推荐)
@@ -33,7 +33,7 @@ npm run serve
 
 ## 后端运行：
 
-```
+``` bash
 cd serverDeemo/
 
 npm install 或 yarn(推荐)
@@ -49,7 +49,7 @@ npm start
 
 - 具体键值对形式与js文件写在serverDeemo内
 
-```
+``` bash
 |- deemo // Database名
     |- sessions  //存储sessions
     |- test      //其实是装备的Collections

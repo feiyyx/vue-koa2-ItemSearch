@@ -29,18 +29,18 @@ npm start
 
 ``` bash
 serverDeemo
-    ├── app.js // 入口文件
+    ├── app.js      // 入口文件
     ├── bin
-    │   └── www // 运行文件
+    │   └── www         // 运行文件
     ├── package.json
-    ├── public // 静态文件
-    │   ├── images // 存储upload图片文件夹
-    │   ├── javascripts // koa-generation默认生成文件夹
-    │   └── stylesheets // koa-generation默认生成文件夹
-    │       └── style.css // koa-generation默认css
-    ├── routes // koa-router
-    │   ├── index.js // 存储
-    │   └── users.js // 登陆/注册相关
-    ├── views // koa-generation默认生成文件夹x
+    ├── public      // 静态文件
+    │   ├── images      // 存储upload图片文件夹
+    │   ├── javascripts         // koa-generation默认生成文件夹
+    │   └── stylesheets         // koa-generation默认生成文件夹
+    │       └── style.css       // koa-generation默认css
+    ├── routes      // koa-router
+    │   ├── index.js        // 存储
+    │   └── users.js        // 登陆/注册相关
+    └── views       // koa-generation默认生成文件夹x
 
 ```

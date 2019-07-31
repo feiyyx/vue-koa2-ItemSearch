@@ -27,7 +27,7 @@ cd frontDeemo/
 
 npm install 或 yarn(推荐)
 
-#http://localhost:8080/
+# http://localhost:8080/
 npm run serve
 ```
 
@@ -38,7 +38,7 @@ cd serverDeemo/
 
 npm install 或 yarn(推荐)
 
-#http://localhost:3000/
+# http://localhost:3000/
 npm start
 ```
 
